@@ -66,6 +66,7 @@ C 是面向过程语言，但仍然可以写出模块化、可维护的工程结
 - `static-extern-const-in-c.md`
 - `pointer-array-memory-model.md`
 - `c-callback-and-interface-design.md`
+- `c-object-oriented-design-basics.md`
 - `linker-script-and-map-file-basics.md`
 
 ## 待核查点
@@ -73,4 +74,3 @@ C 是面向过程语言，但仍然可以写出模块化、可维护的工程结
 - 涉及 ISO C 标准行为的内容，应优先查 C 标准或权威编译器文档。
 - 涉及 GCC 扩展的内容，应查 GCC 官方文档。
 - 涉及 CMSIS、ARM、MCU 寄存器的内容，应查 ARM 或芯片厂商官方文档。
-
